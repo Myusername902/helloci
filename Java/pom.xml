@@ -87,7 +87,6 @@
                 <artifactId>cobertura-maven-plugin</artifactId>
                 <version>2.5</version>
             </plugin>
-            ...
         </plugins>
     </reporting>
 </project>
